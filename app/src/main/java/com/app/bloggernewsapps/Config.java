@@ -5,7 +5,7 @@ import com.app.bloggernewsapps.util.Constant;
 public class Config {
 
     //please check the documentation for the guide to generate your access key
-    public static final String ACCESS_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+    public static final String ACCESS_KEY = "WVVoU01HTklUVFpNZVRsclkyMXNNbHBUTlc1aU1qbHVZa2RWZFZreU9YUk1NbHB3WWtkVmRscERPSGhPTW1OMFUxUlNSVk5zYUd0WGJtaHlZa2QwUlU5R1ZsZGhWWGhQVm01V2RWWkRNVkpUVld0MFkyczBkbVJ0Ykd4a2Vqa3hZek5CT1dNeWFHaGpiV3gxV2pFNWFHTklRbk5oVjA1b1pFZHNkbUpyYkd0WU1rNTJZbE0xTUZwWFRtOWliVGw2WVVkc2QweHRWbk5aYlRnd1kyMUdabGxZUW5kaVIyeHFXVmhTY0dJeU5VcGFSamxvWTIxT2IyTXlSbWxqYldzOQ==";
 
     //app UI design
     public static final boolean ENABLE_NEW_APP_DESIGN = true;

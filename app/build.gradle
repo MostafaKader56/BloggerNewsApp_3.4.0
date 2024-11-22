@@ -7,7 +7,7 @@ android {
     namespace 'com.app.bloggernewsapps'
     compileSdk 35
     defaultConfig {
-        applicationId "com.app.bloggernewsapps"
+        applicationId "com.technoship.applab2"
         minSdk 21
         targetSdk 35
         versionCode 10
